@@ -3,7 +3,7 @@
     "description": "Package for ZPG Real Time Feed integration",
     "type": "library",
     "require": {
-        "php": "^8.3",
+        "php": "^7.4|^8.3",
         "league/json-guard": "^1.0",
         "league/json-reference": "^1.0",
         "guzzlehttp/guzzle": "^7"
